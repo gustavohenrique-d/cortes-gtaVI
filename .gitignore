@@ -1,0 +1,39 @@
+# Dependências
+node_modules/
+
+# Segredos / credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Cache / build
+dist/
+build/
+.cache/
+
+# Mídia pesada (vídeos brutos e renders)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.wav
+*.mp3
+
+# Repositório separado (tem seu próprio remote no GitHub)
+linkbio/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

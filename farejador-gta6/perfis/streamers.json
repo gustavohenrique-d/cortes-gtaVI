@@ -1,0 +1,11 @@
+{
+  "alanzoka": {
+    "cam": [
+      416,
+      234,
+      1487,
+      500
+    ],
+    "obs": "webcam canto inf. direito (caixa ~1485-1905 x 486-752 em 1080p); barra 'ÚLTIMO SUB/COMBO' logo abaixo, fora do crop. Mesma posição em lives diferentes. Coordenadas medidas em 1080p; em clipe 1440p usar x4/3 = [555, 312, 1983, 667]. A live tem legenda automática queimada mais larga que o recorte: ela sai cortada nas laterais. Aceitável, não tente compensar."
+  }
+}
